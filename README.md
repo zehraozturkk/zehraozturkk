@@ -1,6 +1,6 @@
 # ✩ Hello, I'm Zehra! 
 
-![AI](image-3.png) **I'm currently learning:** Tensorflow and SckitLearn
+**I'm currently learning:** Tensorflow and SckitLearn
 
 **How do you reach me:**
 [fatmatuzzehraozturkk@gmail.com](mailto:fatmatuzzehraozturkk.gmail.com)
