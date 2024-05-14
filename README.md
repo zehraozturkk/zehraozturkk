@@ -1,4 +1,4 @@
-# Hello, I'm Zehra! ☆
+# Hello, I'm Zehra! ⛦
 
 I'm currently learning: Tensorflow and SckitLearn
 
