@@ -6,6 +6,6 @@
 
 [fatmatuzzehraozturkk@gmail.com](mailto:fatmatuzzehraozturkk.gmail.com)
 
-[linkedin.com/in/zehra](https://www.linkedin.com/in/zehra)
+[linkedin.com/in/fatmatuzzehraozturk](https://www.linkedin.com/in/fatmatuzzehraozturk)
 
 
