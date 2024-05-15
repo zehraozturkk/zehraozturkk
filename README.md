@@ -7,7 +7,7 @@
 
 
   <p>
-    <b>✩ How to reach me :</b> beyzaevceen@gmail.com
+    <b>✩ How to reach me :</b> fatmatuzzehraozturkk@gmail.com
   </p>
 
   <p>
