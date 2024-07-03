@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <b>✩ I'm currently learning:</b> Node.js and React
+    <b>✩ I'm currently learning:</b> Machine Learning Algorithms
   </p>
 
   <h3>Languages and Tools</h3>
