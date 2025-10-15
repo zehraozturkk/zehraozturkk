@@ -4,14 +4,11 @@
 
   <h1 style="color:pink;">Hello, I'm Zehra</h1>
 
-
-
-  <p>
-    <b>✩ How to reach me :</b> fatmatuzzehraozturkk@gmail.com
-  </p>
+  <p><b>🎓 Computer Engineer | Passionate about Data & AI</b></p>
 
   <p>
-    <b>✩ I'm currently learning:</b> Machine Learning Algorithms
+    <b>✩ How to reach me:</b> 
+    <a href="mailto:fatmatuzzehraozturkk@gmail.com">fatmatuzzehraozturkk@gmail.com</a>
   </p>
 
   <h3>Languages and Tools</h3>
