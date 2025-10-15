@@ -4,7 +4,7 @@
 
   <h1 style="color:pink;">Hello, I'm Zehra</h1>
 
-  <p><b>🎓 Computer Engineer | Passionate about Data & AI</b></p>
+  <p><b> Computer Engineer | Passionate about Data & AI</b></p>
 
   <p>
     <b>✩ How to reach me:</b> 
