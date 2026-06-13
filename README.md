@@ -6,7 +6,7 @@
 
   <p>
     <b>✩ My Portfolio:</b> 
-    <a href="https://portfolyo-fzo.vercel.app/en" target="_blank" rel="noreferrer">portfolyo-fzo.vercel.app</a>
+    <a href="[https://portfolyo-fzo.vercel.app/en](https://zehraozturk.vercel.app/en)" target="_blank" rel="noreferrer">portfolyo-fzo.vercel.app</a>
     <br/>
   </p>
 
